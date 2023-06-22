@@ -1,7 +1,7 @@
 # PXCERT
 ### Requirments
-#### colorama
-#### PIL
+- colorama
+- PIL
 
 ![sometext](https://github.com/ltcp-security/pxcert/blob/main/readme/Frame%205.png?raw=true)
 ![sometext](https://github.com/ltcp-security/pxcert/blob/main/readme/Frame%206.png?raw=true)
